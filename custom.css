@@ -1,0 +1,288 @@
+h1{font-family:'bebas_neue, sans-serif';}
+
+.top{background-color:#000; color:red;}
+.top span{color:red;}
+.social i{padding:7px; font-size:23px;}
+
+
+.navv{background-color:red; font-family:'open-sans, sans-serif;'}
+.navv .navbar{width:100%;}
+.navv .navbar a{color:#fff; padding:3%;}
+
+
+.yoo img{z-index:1000; opacity:100%; position:absolute; padding-top:150px; padding-left:50px;}
+.slider{position:relative;}
+
+.fcc {text-align:center; color:red; font-family:'bebas_neue, sans-serif'; padding:30px;}
+.about{background-color:#f4f4f4; padding:5%;}
+.about span{color:red;}
+
+
+.play{background:url(../images/aaa.jpg);background-size:100%; background-size:cover; min-height:900px; width:100%;}
+
+.play .vdd{padding-top:300px; padding-left:140px; position:relative;overflow:hidden;}
+.play .vdd:before{display:block; content:""; padding-top:40%;}
+.play .vdd iframe{position:absolute; top:0; bottom:0; left:0; width:100%; height:100%;}
+
+.play h1{color:red; text-align:center; padding-top:2%;}
+
+.our-player h1{color:red; text-align:center; padding-top:2%; padding-bottom:2%;}
+.our-player{padding:5%; background-color:#f4f4f4;}
+.our-player  span button {background-color:black; color:white!important;}
+.our-player .card-img-top{border-bottom:4px solid red;}
+.our-player button{background-color:red; border:none;}
+.our-player .card-body{background-color:black; color:red;}
+.our-player .card-body p{color:#bcbcbc;}
+.our-player button:hover{background-color:#291e69; border:none;}
+
+
+
+.gallery{background:url(../images/aaa.jpg);background-size:cover; min-height:600px; width:100%; padding-bottom:2%;}
+
+.gallery h1{color:red; text-align:center; padding:4%;}
+
+
+
+.gallery
+{ position: relative;
+  width:100%;
+  padding:4%;
+  }
+  
+
+
+.gallery .image-box 
+{
+  opacity: 1;
+  display: block;
+  width: 25%;
+  height: auto;
+  transition:.5s ease; 
+  backface-visibility:hidden;
+  position:relative;
+  padding-bottom:3%; overflow:hidden;
+}
+
+.gallery .image-box .middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.gallery .image-box:hover .image {
+  opacity: 0.3;
+ transition:1s;
+}
+
+.gallery .image-box:hover .middle {
+  opacity: 1;
+  
+}
+.gallery .image-box .middle {transition:1s;}
+.text {
+
+  color: white;
+  font-size: 35px;
+  padding: 16px 32px;
+  color:red;
+}
+.gallery .image-box:hover  img {transform:scale(1.05); transition:1s;}
+
+
+.newss{background-color:#f4f4f4;padding:4%; }
+.newss .card{background:transparent;}
+.newss .card:hover{background-color:white;}
+.newss h1{color:red; text-align:center; padding:4%;}
+.newss button{background:transparent; border:1px solid red ; color:red;}
+.newss button:hover{background-color:red; border:none;}
+.newss p:hover{color:red;}
+.newss .card img{position:relative;}
+.date{position:absolute; background-color:#000; color:#f4f4f4; bottom:170px; z-index:1;}
+.card-body:hover{background-color:white; color:black;}
+.newss span {padding-top:50px; }
+
+.adds img:hover{opacity:0.8;}
+
+.foot{background-color:#252525; color:#999999; padding:4%;}
+
+.lastsocial i{color:white; 
+    border:1px solid white;
+    background-color:none;   
+    text-align: center;
+    line-height:35px;
+    width: 40px;
+    height: 40px;
+    color: white;
+    border: 2px solid white;
+    font-size: 20px;
+    border-radius: 100%;
+}
+.lastsocial i:hover{color:white; 
+    border:1px solid white;
+    background-color:white;   
+    text-align: center;
+    line-height:35px;
+    width: 40px;
+    height: 40px;
+    color: red;
+    border: 2px solid white;
+    font-size: 20px;
+    border-radius: 100%;
+}
+.foot h4{color:white;}
+
+.aff 
+{
+  width: 70px;
+    height: 10px;
+border-bottom: 2px solid #f00;}
+
+.foot span{color:red;}
+.downn{padding-top:95px;}
+
+   .form {width:300px;
+   height:40px}
+
+
+
+/* about */
+.about-bg .bgg
+{background:url(../images/about-bg.jpg); width:100%; height:181px;
+background-size:cover;background-size:100%;}
+
+.about-bg .bgg P{font-size:36px; color:white; padding-top:90px; padding-left:30px;}
+
+.about-club h1{color:red; text-align:center; padding-top:2%; padding-bottom:4%;}
+.about-club {background-color:#f4f4f4; padding:5%;}
+
+.coach h1{color:white; text-align:center; padding-top:2%; padding-bottom:4%;}
+.coach{background:url(../images/coachbg.jpg);width:100%; height:788px;}
+.coach .card-body{background-color:black; color:red;}
+.coach .card{border:3px solid black;}
+.card-img-top{border-bottom:2px solid red;}
+
+.club{background-color:#f4f4f4; padding:5%;}
+.club h1{color:red; text-align:center; padding-top:4%; padding-bottom:4%;}
+.club img{padding:6%;}
+.club .card{background:transparent;}
+.club .card h5{color:red;}
+.club .card:hover{background:white;}
+.dd{padding-bottom:7%;}
+
+
+
+/*gallery */
+
+.club2{background-color:#f4f4f4; }
+.club2 h1{color:red; text-align:center; padding-top:4%; padding-bottom:4%;}
+
+.photoss{background-color:#f4f4f4; padding-bottom:2%;}
+
+.photoss h1{color:red; text-align:center; padding:2%;}
+
+
+
+.photoss
+{ position: relative;
+  width:100%;
+  padding:4%;
+  }
+  
+
+
+.photoss .image-box 
+{
+  opacity: 1;
+  display: block;
+  width: 25%;
+  height: auto;
+  transition:.5s ease; 
+  backface-visibility:hidden;
+  position:relative;
+  padding-bottom:3%; overflow:hidden;
+}
+
+.photoss .image-box .middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.photoss .image-box:hover .image {
+  opacity: 0.3;
+ transition:1s;
+}
+
+.photoss .image-box:hover .middle {
+  opacity: 1;
+  
+}
+.photoss .image-box .middle {transition:1s;}
+.text {
+
+  color: white;
+  font-size: 35px;
+  padding: 16px 32px;
+  color:red;
+}
+.photoss .image-box:hover  img {transform:scale(1.05); transition:1s;}
+
+
+
+
+/*news */
+
+.newss .outer{border:1px solid #EBEBEB; padding:6px;}
+.newss .media{padding:8px;}
+.newss h5{color:red;}
+.newss p{color:red; font-size:13px; padding-bottom:2px;}
+.content
+{background:url(../images/Midnight-City.jpg); width:100%; height:100%;
+background-size:cover;background-size:100%; color:white;}
+.content h4{color:#9ee934;}
+.content .midd{background-color:#3d3f40; padding:10px; border-left:6px solid;}
+.rightt{padding-top:83px;}
+.comments .card-img{width:50%; border-radius:50%;}
+.comments  .card{border:none;}
+
+
+
+
+
+
+
+
+
+
+
+@media(min-width:1350px)
+{
+.adds{background-size:cover;}	
+	
+}
+
+ 
+@media(max-width:991px)
+{
+.play .vdd img {position:relative;}
+	.play .vdd iframe{position:absolute; width:100%; height:100%;}
+	.navbar-toggler {background:transparent; border:2px solid white;}
+	.navbar-toggler-icon{border-bottom:2px solid white;}
+	.navbar-toggler-icon {border-top:2px solid white;}
+	.pre-header{display:none;}
+}
+
+
+
+
+
